@@ -8,6 +8,7 @@
 **시연 영상 링크**
 
 ## 🖼️ 배경
+<img width="610" alt="background" src="https://github.com/GDSC-New-Year-Hackathon/.github/assets/70849467/c6d6e0e4-df29-4e9f-8840-e8e937282339">
 
 **내 새해 결심은 왜 작심삼일서 끝날까?** 
 
@@ -71,13 +72,12 @@
 - 모든 좌표에 대해 (가로), (세로), (왼쪽대각선), (오른쪽대각선) 총 4가지 경우에서 같은 색인 바둑알의 개수가 5개 완성 시 승리
 
 ## 💡아키텍쳐
+<img width="622" alt="architecture" src="https://github.com/GDSC-New-Year-Hackathon/.github/assets/70849467/51a295fc-ebb8-4e0c-9c01-eb2587ea6ee7">
 
 
 ## 🌈 기대효과 및 결론
 
 **사용자의 목표 달성률 향상**
-
-
 
 시각적인 피드백과 
 커뮤니티의 지지가 사용자의 동기를 부여하고 목표 달성을 촉진
